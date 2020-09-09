@@ -1,0 +1,18 @@
+table {
+    text-align: left;
+    width: 50%;
+}
+
+body {
+    font-family: Georgia;
+    background-color: aliceblue;
+}
+
+thead {
+    background-color: aquamarine;
+}
+
+tbody {
+    background-color: linen;
+}
+
